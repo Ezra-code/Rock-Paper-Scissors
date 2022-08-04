@@ -1,0 +1,32 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+#czrs, #paper, #rock{
+    margin: 20px;
+}
+button{
+    background-color: white;
+    border: none;
+    box-shadow: 2px 2px 2px 2px black;
+    border-radius: 3px;
+}
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
+.container{
+    margin-left: 45%;
+    width: 100%;
+}
+h1{
+    margin-top: 0;
+    border: solid black;
+}
